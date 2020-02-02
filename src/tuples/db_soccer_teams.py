@@ -30,7 +30,6 @@ for i in db:
 
 l = [(k,v) for v,k in db.items()]
 pos = 1
-#[((),'')]
 l.sort()
 
 for i in l:
